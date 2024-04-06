@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618958872225",
+    "project_id": "adhikar-2d604",
+    "storage_bucket": "adhikar-2d604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618958872225:android:5137044db5ace4de77dae0",
+        "android_client_info": {
+          "package_name": "com.example.adhikar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MoRyQbkF62xZZQWAFFjQ6b9Ov4ixhrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
