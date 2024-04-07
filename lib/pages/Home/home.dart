@@ -1,5 +1,5 @@
-import 'package:adhikar/Home/cvil_que_list.dart';
-import 'package:adhikar/Home/family_que_list.dart';
+import 'package:adhikar/pages/Home/cvil_que_list.dart';
+import 'package:adhikar/pages/Home/family_que_list.dart';
 import 'package:adhikar/widgets/practice_area_card.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

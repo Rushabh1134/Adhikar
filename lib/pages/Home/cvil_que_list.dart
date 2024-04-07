@@ -1,4 +1,4 @@
-import 'package:adhikar/Home/inputpage.dart';
+import 'package:adhikar/pages/Home/inputpage.dart';
 import 'package:adhikar/widgets/query_card.dart';
 import 'package:flutter/material.dart';
 
