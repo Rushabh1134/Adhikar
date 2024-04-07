@@ -34,8 +34,9 @@
 ![Screenshot_2024-04-07-14-53-11-919_com example adhikar](https://github.com/Rushabh1134/Adhikar/assets/97875843/06253aaf-9c31-4574-b99f-b449fb6292b9)
 ![Screenshot_2024-04-07-14-54-51-985_com example adhikar](https://github.com/Rushabh1134/Adhikar/assets/97875843/8c8cfa5c-8a3d-4b80-9dc3-edb42b277eb6)
 ![Screenshot_2024-04-07-14-54-59-613_com example adhikar](https://github.com/Rushabh1134/Adhikar/assets/97875843/4ef22649-916a-4546-92fb-cc64af6fc8ab)
-![Screenshot_2024-04-07-14-55-02-461_com example adhikar](https://github.com/Rush![Screenshot_2024-04-07-14-55-04-952_com example adhikar](https://github.com/Rushabh1134/Adhikar/assets/97875843/8deb5655-0811-4600-b827-906683742cf9)
-abh1134/Adhikar/assets/97875843/f6f5c467-5880-4dfd-a0b9-4337c282b3dd)
+![Screenshot_2024-04-07-14-55-02-461_com example adhikar](https://github.com/Rushabh1134/Adhikar/assets/97875843/79cb86a8-8d96-4c4b-a261-4b78c34c0106)
+![Screenshot_2024-04-07-14-55-04-952_com example adhikar](https://github.com/Rushabh1134/Adhikar/assets/97875843/033cbe48-5b2d-46cf-bf90-e07cacf74047)
+
 
 
 
